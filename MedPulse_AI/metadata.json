@@ -1,0 +1,6 @@
+{
+  "name": "MedPulse AI - Medical Report & Health Record Assistant",
+  "description": "AI-powered medical report extraction, structured longitudinal health timelines, biomarker trends, and secure doctor-patient collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
