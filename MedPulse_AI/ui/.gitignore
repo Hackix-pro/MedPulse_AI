@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Production build outputs
+dist/
+build/
+out/
+coverage/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Local AI / LLM Model Binaries
+*.gguf
+*.bin
+*.pt
+
+# OCR Cache
+*.traineddata
+
+# User Uploads
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
